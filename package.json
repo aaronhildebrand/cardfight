@@ -18,6 +18,7 @@
   "homepage": "https://github.com/aaronhildebrand/mvp-cardfight#readme",
   "dependencies": {
     "express": "^4.13.4",
+    "fast-csv": "^1.1.0",
     "mongoose": "^4.4.11"
   }
 }
