@@ -47,7 +47,7 @@ conn.on('connected', function() {
             });
           })
           .on('end', function() {
-            console.log('Finished loading cards');
+            console.log('Finished loading cards!');
           });
       } else {
         console.log('Cards already loaded.');
