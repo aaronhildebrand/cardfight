@@ -1,0 +1,23 @@
+{
+  "name": "mvp-cardfight",
+  "description": "Summary: Superfight is a card game where you imagine a fight between two characters/people/animals with abilities/attributes. Much of the game comes down to the way you argue why your fighter would defeat the other one. The group will vote on who would win and that person gets a point.",
+  "main": "index.js",
+  "authors": [
+    "Aaron Hildebrand <aaron.hildebrand@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aaronhildebrand/mvp-cardfight",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3",
+    "angular-mocks": "^1.5.3"
+  }
+}
