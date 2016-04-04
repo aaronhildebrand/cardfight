@@ -1,12 +1,14 @@
 var express = require('express');
 var mongoose = require('mongoose');
-var handler = ('./lib/request-handler');
+var handler = require('./game/game-handler');
+var Cards = require('./db/cards.js');
 var app = express();
+
 
 var databaseLoc =
     process.env.MONGOLAB_URI ||
     process.env.MONGOHQ_URL ||
-    'mongodb://localhost/shortlydb';
+    'mongodb://localhost/cardfight';
 
 mongoose.connect(databaseLoc);
 
