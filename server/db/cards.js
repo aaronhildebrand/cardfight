@@ -36,7 +36,7 @@ conn.on('connected', function() {
   conn.db.listCollections({name: 'cards'})
     .next(function(err, info) {
       if(!info) {
-        csv.fromPath('cardlist.csv', {headers : true})
+        csv.fromPath(__dirname + '/cardlist.csv', {headers : true})
           .on('data', function(data) {
             var record = new Cards(data);
             record.save(function(err, result) {
