@@ -1,8 +1,5 @@
 .DS_Store
 
-# Build files
-public/dist/
-
 # Node modules
 node_modules/
 
