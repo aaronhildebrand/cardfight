@@ -11,6 +11,7 @@ angular.module('superfight.cards', [])
         data.forEach(function(obj) {
           obj.selected = false;
         });
+        $scope.data.cards = [];
         $scope.data.cards = $scope.data.cards.concat(data);
       })
       .catch(function(err) {
@@ -59,6 +60,12 @@ angular.module('superfight.cards', [])
   };
 
   $scope.submitCards = function() {
-
+    $scope.data.cards = $scope.data.cards.filter(function(card) {
+      return card.selected;
+    });
+    $scope.data.cards.forEach(function(card) {
+      card.selected = false;
+    });
+    $scope.showsubmit = false;
   };
 });

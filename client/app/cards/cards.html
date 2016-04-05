@@ -1,13 +1,12 @@
 <div id='cards'>
-  <button class="draw" ng-click="getHand()">Draw Cards</button>
-  <button class="draw" ng-click="getOneWhite()">Draw One White</button>
-  <button class="draw" ng-click="getOneBlack()">Draw One Black</button>
+  <button class="draw" ng-click="getHand()">Draw New Hand</button>
+  <button class="draw" ng-click="getOneWhite()">Draw White Card</button>
+  <button class="draw" ng-click="getOneBlack()">Draw Black Card</button>
+  <button class="cardsPicked" ng-show="showsubmit" ng-click="submitCards()">Submit Selected</button>
   <div></div>
   <div ng-repeat='card in data.cards' style="display: inline-block; vertical-align: top;">
     <div class="{{ card.color }} {{card.selected}}" ng-click="toggleCard(card.index)">
       <div class="cardContents">{{ card.content }}</div>
     </div>
   </div>
-  <div></div>
-  <button class="cardsPicked" ng-show="showsubmit" ng-click="submitCards()">Submit Selected</button>
 </div>
