@@ -24,9 +24,4 @@ app.get('/api/draw', game.drawHand);
 app.get('/api/drawwhite', game.drawWhite);
 app.get('/api/drawblack', game.drawBlack);
 
-
-// app.get('/*', function(req, res) {
-//   res.send('Hello world!');
-// });
-
 module.exports = app;

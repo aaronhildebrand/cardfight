@@ -22,12 +22,10 @@ var cardIndexes = function(indexes, countWhite, countBlack) {
 exports.drawHand = function(req, res) {
   var indexes = [];
   cardIndexes(indexes, 3, 3);
-  console.log(indexes);
 
   var cards = drawCards(indexes);
 
   cards.then(function(hand) {
-    console.log(hand);
     res.send(hand);
   })
   .catch(function(error) {
@@ -38,12 +36,10 @@ exports.drawHand = function(req, res) {
 exports.drawWhite = function(req, res) {
   var indexes = [];
   cardIndexes(indexes, 1, 0);
-  console.log(indexes);
 
   var cards = drawCards(indexes);
 
   cards.then(function(hand) {
-    console.log(hand);
     res.send(hand);
   })
   .catch(function(error) {
@@ -54,12 +50,10 @@ exports.drawWhite = function(req, res) {
 exports.drawBlack = function(req, res) {
   var indexes = [];
   cardIndexes(indexes, 0, 1);
-  console.log(indexes);
 
   var cards = drawCards(indexes);
 
   cards.then(function(hand) {
-    console.log(hand);
     res.send(hand);
   })
   .catch(function(error) {
