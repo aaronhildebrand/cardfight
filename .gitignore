@@ -3,9 +3,5 @@
 # Node modules
 node_modules/
 
-# Bower modules
-client/lib
-
 # Reference docs
 Rules/
-Cards/

@@ -1,0 +1,501 @@
+index,color,content
+1,White,101 Dalmatians
+2,White,Abraham Lincoln
+3,White,Alien
+4,White,Angel
+5,White,Apache Warrior
+6,White,Assassin
+7,White,Barney
+8,White,Billionaire Playboy
+9,White,Blank
+10,White,Blank
+11,White,Blank
+12,White,Blob
+13,White,Bodybuilder
+14,White,Boy Band
+15,White,Boy Scout
+16,White,Bruce Lee
+17,White,Bull
+18,White,Cactus
+19,White,Canada
+20,White,Carnie
+21,White,Cat
+22,White,Cheetah
+23,White,Child Beauty Pageant Queen
+24,White,Chimpanzee
+25,White,Chuck Norris
+26,White,Coachella Lineup
+27,White,College A Cappella Group
+28,White,Conan
+29,White,Conjoined Twins
+30,White,Cowboy
+31,White,Crazy Cat Lady
+32,White,Crocodile Hunter
+33,White,Darth Vader
+34,White,Demon
+35,White,Demon-Possessed Car
+36,White,Dexter
+37,White,Disembodied Head
+38,White,Dolphin
+39,White,Dragon
+40,White,E.T.
+41,White,Eagle
+42,White,Electric Eel
+43,White,Emperor Penguin
+44,White,Everyone At Burning Man
+45,White,Evil Doll
+46,White,Fainting Goat
+47,White,Femme Fatale
+48,White,Forrest Gump
+49,White,Frankenstein
+50,White,Freddy
+51,White,French Bulldog
+52,White,Gandhi
+53,White,Genghis Khan
+54,White,George W. Bush
+55,White,Giant Squid
+56,White,Giraffe
+57,White,Girl Scout
+58,White,Gladiator
+59,White,Google
+60,White,Gorilla
+61,White,Grim Reaper
+62,White,Hannibal
+63,White,Heisenberg
+64,White,Helen Keller
+65,White,Hermione
+66,White,High School Marching Band
+67,White,Hillary Clinton
+68,White,Hippo
+69,White,Hipster
+70,White,Hobo
+71,White,Hockey Player
+72,White,Homer
+73,White,Hulk
+74,White,Hunchback
+75,White,Identical Twins
+76,White,Iron Man
+77,White,Jack Bauer
+78,White,Jason
+79,White,Justin Bieber
+80,White,K-Pop Star
+81,White,Katniss
+82,White,Kindergarten Class
+83,White,Leprechaun
+84,White,Literally Insane Clown Posse
+85,White,Lucha Libre Wrestler
+86,White,Macgyver
+87,White,Mad Scientist
+88,White,Mafia Don
+89,White,Mario Brothers.
+90,White,Marshmallow Man
+91,White,Martha Stewart
+92,White,Me
+93,White,Meat Loaf
+94,White,Men In Black
+95,White,Mermaid
+96,White,Michael Jackson
+97,White,Mike Tyson
+98,White,Miley Cyrus
+99,White,Mime
+100,White,Moose
+101,White,Mr. Rogers
+102,White,Mummy
+103,White,Musketeer
+104,White,My Boss
+105,White,My Ex
+106,White,My Significant Other
+107,White,Nigerian Prince
+108,White,Ninja
+109,White,Nudist
+110,White,Obama
+111,White,Octopus
+112,White,Olympic Gymnast
+113,White,Owl
+114,White,Pet Rock
+115,White,Pick A Celebrity
+116,White,Pick A Comic Book Character
+117,White,Pick A Movie Character
+118,White,Pick A Tv Character
+119,White,Pick An Action Movie Star
+120,White,Pirate
+121,White,Polar Bear
+122,White,Psychic
+123,White,Pterodactyl
+124,White,Pukachu
+125,White,Queen
+126,White,Rambo
+127,White,Redneck
+128,White,Reggae Band
+129,White,Rhinoceros
+130,White,Robin Hood
+131,White,Robot
+132,White,Saber-Toothed Tiger
+133,White,Samurai
+134,White,Sasquatch
+135,White,Secret Agent
+136,White,Senior Citizen Bowling Team
+137,White,Shark
+138,White,Sharpshooter
+139,White,Sherlock Holmes
+140,White,Skeleton
+141,White,Sloth
+142,White,Smoke Monster
+143,White,Snake
+144,White,Soccer Mom
+145,White,Spartan
+146,White,Spider
+147,White,Stephen Hawking
+148,White,Street Fighter
+149,White,Sumo Wrestler
+150,White,Supermodel
+151,White,Swarm Of Killer Bees
+152,White,T-Rex
+153,White,Terminator
+154,White,The Devil
+155,White,The Doctor
+156,White,The Dude
+157,White,The Illuminati
+158,White,The Kardashians
+159,White,The Player To Your Left
+160,White,The Pope
+161,White,The Statue Of Library
+162,White,The U.N.
+163,White,Turtle
+164,White,Ultimate Fighting Cgampion
+165,White,Unicorn
+166,White,Vampire
+167,White,Vampire Slayer
+168,White,Vegan
+169,White,Velociraptor
+170,White,Viking
+171,White,Werewolf
+172,White,Whale
+173,White,Willy Wonka
+174,White,Witch
+175,White,Wizard
+176,White,Wooly Mammoth
+177,White,Your Mom
+178,White,Zombie
+179,Black,10 Of Them
+180,Black,10 Of Them
+181,Black,10 Stories Tall
+182,Black,10 Stories Tall
+183,Black,10 Stories Tall
+184,Black,100 Of Them
+185,Black,100 Of Them
+186,Black,100 Stories Tall
+187,Black,100 Stories Tall
+188,Black,3 Of Them
+189,Black,3 Of Them
+190,Black,3 Stories Tall
+191,Black,3 Stories Tall
+192,Black,3 Stories Tall
+193,Black,3-Foot Fingernails
+194,Black,50 Of Them
+195,Black,50 Of Them
+196,Black,6 Inches Tall
+197,Black,6 Inches Tall
+198,Black,9 Feet Tall
+199,Black,9 Feet Tall
+200,Black,Acid Blood
+201,Black,Afraid Of Water
+202,Black,Agoraphobic
+203,Black,Allergic To All Animals
+204,Black,Armed With A Bacon-Wrapped Baseball Bat
+205,Black,Armed With A Barbed Wore Net
+206,Black,Armed With A Cannon
+207,Black,Armed With A Catapult And Unlimited Livestock
+208,Black,Armed With A Cattle Prod
+209,Black,Armed With A Chainsaw
+210,Black,Armed With A Crowbar
+211,Black,Armed With A Flamethrower
+212,Black,Armed With A Freeze Ray
+213,Black,Armed With A Harpoon Gun
+214,Black,Armed With A Lightsaber
+215,Black,Armed With A Live T-Rex On A Stick
+216,Black,Armed With A Long Electrified Whip
+217,Black,Armed With A Machine Gun
+218,Black,Armed With A Nail Gun
+219,Black,Armed With A Poison-Tipped Lance
+220,Black,Armed With A Portal Gun
+221,Black,Armed With A Puppy Musket
+222,Black,Armed With A Rocket Launcher
+223,Black,Armed With A Sadness Ray
+224,Black,Armed With A Samurai Sword
+225,Black,Armed With A Shotgun
+226,Black,Armed With A Shotgun That Shoots Shotguns
+227,Black,Armed With A Shrink Ray
+228,Black,Armed With A Sniper Rifle
+229,Black,Armed With A Superglue Fire Hose
+230,Black,Armed With A Tranquilizer Gun
+231,Black,Armed With A Trident
+232,Black,Armed With An Infinite Sausage Lasso
+233,Black,Armed With An Impenetrable Shield
+234,Black,Armed With Axe
+235,Black,Armed With Catarangs
+236,Black,Armed With Cupid's Bow
+237,Black,Armed With Dynamite
+238,Black,Armed With Ghost Pepper Spray
+239,Black,Armed With Holy Hand Grenades
+240,Black,Armed With Nunchucks
+241,Black,Armer With A Bow And Unlimited Arrows
+242,Black,Balancing On A Circus Ball
+243,Black,Being Guarded By The Secret Service
+244,Black,Believes They Are Invisible
+245,Black,Bionic
+246,Black,Blank
+247,Black,Blank
+248,Black,Blank
+249,Black,Bottom Half Is______ - Draw Another Character Card From The Deck
+250,Black,Bottom Half Is______ - Draw Another Character Card From The Deck
+251,Black,Bottom Half Is______ - Play Another Character Card From Hand
+252,Black,Bottom Half Is______ - Play Another Character Card From Hand
+253,Black,Bottom Half Is______ - Play Another Character Card From The Deck
+254,Black,Breathes Fire
+255,Black,Can Animate Dirt
+256,Black,Can Become Any Animal
+257,Black,Can Become Mist While Holding Breath
+258,Black,Can Blow 200-Mph Winds
+259,Black,Can Breathe Underwater
+260,Black,Can Change Into A______ - At Will Pick A Character Card From Your Hand
+261,Black,Can Change Into A______ - At Will Pick A Character Card From Your Hand
+262,Black,Can Clone Self But Each Clone Is Half As Smart As The Previous
+263,Black,Can Clone Self But Each Clone Is Half The Size Of The Previous
+264,Black,Can Control Gravity
+265,Black,Can Control Hair
+266,Black,Can Control Machines
+267,Black,Can Control Opponent's Right Hand
+268,Black,Can Control Plants
+269,Black,Can Create A Hologram Of Self
+270,Black,Can Dig And Run Through Tunnels With Super Speed
+271,Black,Can Fly
+272,Black,Can Fly But Only Two Feet Above The Ground
+273,Black,Can Fly If Nobody Is Watching
+274,Black,Can Hold Breathe Forever
+275,Black,Can Kill With A Kiss
+276,Black,Can Make A Force Field While Holding Breath
+277,Black,Can Match Opponent's Size
+278,Black,Can Only Be Killed By Beheading
+279,Black,Can Only Move By Back Flipping
+280,Black,Can Only Move When Opponent Moves
+281,Black,Can Only See Movement
+282,Black,Can Possess Opponent For 30 Seconds Then Gets Very Tired
+283,Black,Can Read Minds
+284,Black,Can Run 200 Mph But Only In A Straight Line
+285,Black,Can See 3 Seconds Into The Future
+286,Black,Can Stop Time While Holding Breath
+287,Black,Can Stretch Like Rubber
+288,Black,Can Summon Am Army Internet Trolls
+289,Black,Can Summon Anything From A Hardware Store
+290,Black,Can Take The Form Of Anything The Touch
+291,Black,Can Take The Form Of Anything Water-Based
+292,Black,Can Teleport But Goes Blind For 10 Seconds After Each Use
+293,Black,Can Throw Sticky Bombs
+294,Black,Can Turn Into Any Vehicle
+295,Black,Can Turn Invisible While Singing Snow Tunes
+296,Black,Can Turn To Steel
+297,Black,Can Walk Through Sold Objects
+298,Black,Can't See
+299,Black,Can't Stop Clapping
+300,Black,Can't Stop Dancing
+301,Black,Can't Stop Laughing
+302,Black,Can't Stop Sobbing
+303,Black,Can't Turn Left
+304,Black,Carrying A Baby
+305,Black,Carrying Way Too Many Grocery Bags
+306,Black,Catlike Reflexes
+307,Black,Clothes Are Way Too Big
+308,Black,Clothes Are Way Too Tight
+309,Black,Constantly Taking Selfies
+310,Black,Controls A Tween Army
+311,Black,Controls All Animals
+312,Black,Controls An Army Of Flying Monkeys
+313,Black,Controls Magnetism
+314,Black,Controls Weather
+315,Black,Covered In Eyes
+316,Black,Covered In Spikes
+317,Black,Distracted By Shiny Things
+318,Black,Draw A Character Card As Your 500-Pound Pet
+319,Black,Draw A New Character Card With One New Attribute As Sidekick
+320,Black,Draw A New Character Card With One New Attribute As Your Sidekick
+321,Black,Draw And Play Two Random Attributes From The Deck Discard This Card After Use
+322,Black,Draw And Play Two Random Attributes From The Deck Discard This Card After Use
+323,Black,Driving A Tank
+324,Black,Driving Popemobile
+325,Black,Duplicate One Opponent Attribute
+326,Black,Duplicate One Opponent Attribute
+327,Black,Eliminate All Attributes In This Fight
+328,Black,Entire Body Is Very Sticky
+329,Black,Everything The Touch Turns To Hummus
+330,Black,Explodes If The Stop Moving
+331,Black,"Figuratively ""On Fire"" ...And Literally"
+332,Black,Floating Down On A Parachute
+333,Black,Frost Breath
+334,Black,Handcuffed To Golf Cart
+335,Black,Hands Are Covered In Butter
+336,Black,Hands Glued To Hips
+337,Black,Has A 6-Foot Neck
+338,Black,Has A Battleship
+339,Black,Has A Beard Made Bees
+340,Black,Has A Hostage
+341,Black,Has A Magical Unicorn Horn
+342,Black,Has A Skunk On A Stick
+343,Black,Has A Time Machine Phone Booth
+344,Black,Has A Voodoo Doll Of Opponent
+345,Black,Has An Invisible Cloak
+346,Black,Has An Invisible Jet
+347,Black,Has Feet Instead Of Hands
+348,Black,Has Hands Instead Of Feet
+349,Black,Has Jellyfish Instead Of Hands
+350,Black,Has Majestic Flamming Antlers Growing Of Head
+351,Black,Has No Bones
+352,Black,Has One Tiny Baby Arm
+353,Black,Has Telekinesis
+354,Black,Has Tiny Bird Legs
+355,Black,Has Tiny T-Rex Arms
+356,Black,Has Two Extra Arms
+357,Black,Has Two Peg Legs
+358,Black,Has Vertigo
+359,Black,Has X-Ray Vision
+360,Black,Heals 100 Times Faster Than Normal
+361,Black,Horrible Self-Esteem
+362,Black,I'm A Berserker Rage
+363,Black,In A Blimp
+364,Black,In A Helicopter
+365,Black,In A Hot Air Balloon
+366,Black,In A Jet Fighter
+367,Black,In A Space Suit
+368,Black,Inside A Giant Hamster Ball
+369,Black,Inside A Giant Robotic______ - Draw A Random Character Card
+370,Black,Inside A Giant Robotic______ - Pick A Character Card From Your Hand
+371,Black,Invisible
+372,Black,Is A 1000 Years Old
+373,Black,Is A Baby
+374,Black,Is A Belieber And Is Convinced Opponent Means Bieber Bodily Harm
+375,Black,Is A Hoarder
+376,Black,Is A Hypnotist
+377,Black,Is A Piñata
+378,Black,Is A Stuffed
+379,Black,Is A Super Genius
+380,Black,Is A Tween
+381,Black,Is Amish
+382,Black,Is Drunk
+383,Black,Is Elderly
+384,Black,Is Having A Really Good Hair Day
+385,Black,Is Made Of Guacamole
+386,Black,Is Rabid
+387,Black,Is Radioactive
+388,Black,Is Really Hangry
+389,Black,Is Really Into Fonts
+390,Black,Is Really Really Good-Looking
+391,Black,Is Really Really Stupid
+392,Black,Just Drank Five Energy Drinks
+393,Black,Killed By Water
+394,Black,Knows Knug Fu
+395,Black,Laser Eyes
+396,Black,Lays Exploding Eggs
+397,Black,Leeches Opponent's Health When Touched
+398,Black,Literal Jazz Hands
+399,Black,Literally Wearing Beer Goggles
+400,Black,Literally Wearing Heart On Sleeve
+401,Black,Locked In A Antique Diver's Helmet
+402,Black,Locked In A Shark Cage
+403,Black,Long Metal Claws Pop Out Of Hands
+404,Black,Made Of Lava
+405,Black,Made Of Mirrors
+406,Black,Made Of Paper
+407,Black,Made Of Sand
+408,Black,Made Of Stone
+409,Black,Megafighter!
+410,Black,Morbidly Obese
+411,Black,Mustache Can Stretch And Move At Will
+412,Black,Narcoleptic
+413,Black,No Arms
+414,Black,No Depth Perception
+415,Black,No Legs
+416,Black,On A Jet Ski
+417,Black,On A Pogo Stick
+418,Black,On A Segway
+419,Black,On A Velocipede
+420,Black,On Stilts
+421,Black,Only Has One Leg
+422,Black,Pacifist
+423,Black,Piloting An Attack Drone
+424,Black,Pregnant
+425,Black,Really Clumsy
+426,Black,Really Really Has To Pee
+427,Black,Relies On Heat Vision To See
+428,Black,Relies On Sonar To See
+429,Black,Riding A Battle Cat
+430,Black,Riding A Broomstick
+431,Black,Riding A Depressed Centaur
+432,Black,Riding A Flying Narwhal
+433,Black,Riding A Horse
+434,Black,Riding A Hoverboard
+435,Black,Riding A Motorcycle
+436,Black,Riding A War Elephant
+437,Black,Riding A______ - Draw A Character From The Deck
+438,Black,Riding A______ - Draw A Character From The Deck
+439,Black,Scissor Hands
+440,Black,Screams Names Of Attacks Before Using Them
+441,Black,Shoots Acid
+442,Black,Shoots Bees From Mouth
+443,Black,Shoots Blinding Light From Hands
+444,Black,Shoots Glitter
+445,Black,Shoots Laughing Gas
+446,Black,Shoots Lightning
+447,Black,Shoots Poison Darts From Nose
+448,Black,Shoots Tear Gas
+449,Black,Shoots Webs
+450,Black,Slows Time When Eyes Are Closed
+451,Black,Sonic Scream
+452,Black,Sprays Neurotoxin
+453,Black,Steal One Attribute From Opponent
+454,Black,Steal One Attribute From Opponent Discard This Card After Use
+455,Black,Steal One Attribute From Opponent Discard This Card After Use
+456,Black,Steals Opponent's Abilities With A Touch
+457,Black,Stone Gaze
+458,Black,Suffering From Delusions Of Grandeur
+459,Black,Summons Cats To Do Bidding
+460,Black,Super Endurance
+461,Black,Super Jump
+462,Black,Super Strength
+463,Black,Swinging A Shark On A Chain
+464,Black,Thinks The Floor Is Actually Lava
+465,Black,Throwing Spears
+466,Black,Throws 200-Mph Fastballs
+467,Black,Throws Antiques
+468,Black,Throws Bears
+469,Black,Throws Burritos
+470,Black,Throws Fireballs
+471,Black,Throws Knives
+472,Black,Throws Ninja Stars
+473,Black,Tongue Can Stretch And Move At Will
+474,Black,Top Half Is______ - Draw Another Character Card From The Deck
+475,Black,Top Half Is______ - Draw Another Character Card From The Deck
+476,Black,Top Half Is______ - Play Another Character Card From Hand
+477,Black,Top Half Is______ - Play Another Character Card From Hand
+478,Black,Top Half Is______ - Play Another Character Card From Hand
+479,Black,Trapped In A Potato Sack
+480,Black,Two Extra Legs
+481,Black,Unaffected By Impact
+482,Black,Used To Be A Bear
+483,Black,Uses The Force
+484,Black,Venomous Bite
+485,Black,Walking Twelve Wiener Dogs
+486,Black,Wall-Crawler
+487,Black,Wearing A Flaming Tutu
+488,Black,Wearing A Impenetrable Tuxedo
+489,Black,Wearing A Jetpack
+490,Black,Wearing A Meat Bikini
+491,Black,Wearing A Robotic Exoskeleton
+492,Black,Wearing A Scuba Suit
+493,Black,Wearing A Suit Of Armor
+494,Black,Wearing A Tin Foil Hat
+495,Black,Wearing Cement Shoes
+496,Black,Wearing One Of Those Comes They Put On Pets To Keep Them From Licking Themselves
+497,Black,Wearing Rocket-Powered Roller Skates
+498,Black,Wearing Sharpened Stilettos
+499,Black,Wearing Skis
+500,Black,With A Prehensile Tail
