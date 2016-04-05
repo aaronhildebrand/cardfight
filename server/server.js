@@ -1,6 +1,6 @@
 var express = require('express');
 var mongoose = require('mongoose');
-var handler = require('./game/game-handler');
+var game = require('./game/game-handler');
 var Cards = require('./db/cards.js');
 var app = express();
 
@@ -18,8 +18,13 @@ app.listen(port, function() {
   console.log('Server now listening at port: ', port);
 });
 
-app.get('/*', function(req, res) {
-  res.send('Hello world!');
-});
+app.use(express.static(__dirname + '/../client'));
+
+app.get('/api/draw', game.drawHand);
+
+
+// app.get('/*', function(req, res) {
+//   res.send('Hello world!');
+// });
 
 module.exports = app;

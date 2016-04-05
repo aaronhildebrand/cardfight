@@ -7,6 +7,7 @@ angular.module('superfight.game', [])
       url: '/api/draw'
     })
     .then(function(resp) {
+      console.log('in factory getHand!');
       return resp.data;
     });
   };
