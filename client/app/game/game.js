@@ -7,13 +7,22 @@ angular.module('superfight.game', [])
       url: '/api/draw'
     })
     .then(function(resp) {
-      console.log('in factory getHand!');
+      return resp.data;
+    });
+  };
+
+  var getOneBlack = function() {
+    return $http({
+      method: 'GET',
+      url: '/api/getoneblack'
+    })
+    .then(function(resp) {
       return resp.data;
     });
   };
 
   return {
-    getHand: getHand
+    getHand: getHand,
+    getOneBlack: getOneBlack
   };
-
 });
