@@ -1,11 +1,6 @@
 <div id='cards'>
   <button class="draw" ng-click="getHand()">Draw Cards</button>
   <div></div>
- <!--  <input type="text" class="form-control" ng-model="activeItem" />
-  <div ng-repeat="card in data.cards" class="{{card.color}}" selectable="setActiveItem({{card.content}})">
-    <i class="fa fa-check fa-inverse fa-lg" ng-show="activeItem == {{card.content}}"></i>
-    <span ng-hide="activeItem == {{card.content}}">{{ card.content }}</span>
-  </div> -->
   <div ng-repeat='card in data.cards' style="display: inline-block; vertical-align: top;">
     <div class="{{ card.color }} {{card.selected}}" ng-click="toggleCard(card.index)">
       <div class="cardContents">{{ card.content }}</div>
