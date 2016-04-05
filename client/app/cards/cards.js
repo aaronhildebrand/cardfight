@@ -3,14 +3,15 @@ angular.module('superfight.cards', [])
 .controller('CardsController', function($scope, Cards) {
   $scope.data = {};
   $scope.showsubmit = false;
+  $scope.data.cards = [];
 
   $scope.getHand = function() {
-    Cards.getHand() 
+    Cards.getHand()
       .then(function(data) {
         data.forEach(function(obj) {
           obj.selected = false;
         });
-        $scope.data.cards = data;
+        $scope.data.cards = $scope.data.cards.concat(data);
       })
       .catch(function(err) {
         console.error('Error: ', err);
@@ -18,9 +19,19 @@ angular.module('superfight.cards', [])
   };
 
   $scope.getOneBlack = function() {
-    Cards.getOneBlack() 
+    Cards.getOneBlack()
       .then(function(data) {
-        $scope.data.cards = data;
+        $scope.data.cards = $scope.data.cards.concat(data);
+      })
+      .catch(function(err) {
+        console.error('Error: ', err);
+      });
+  };
+
+  $scope.getOneWhite = function() {
+    Cards.getOneWhite() 
+      .then(function(data) {
+        $scope.data.cards = $scope.data.cards.concat(data);
       })
       .catch(function(err) {
         console.error('Error: ', err);

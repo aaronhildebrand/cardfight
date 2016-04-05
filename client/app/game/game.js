@@ -1,10 +1,10 @@
 angular.module('superfight.game', [])
 
 .factory('Cards', function($http) {
-  var getHand = function() {
+  var getHand = function(a,b) {
     return $http({
       method: 'GET',
-      url: '/api/draw'
+      url: '/api/draw/'
     })
     .then(function(resp) {
       return resp.data;
@@ -14,7 +14,17 @@ angular.module('superfight.game', [])
   var getOneBlack = function() {
     return $http({
       method: 'GET',
-      url: '/api/getoneblack'
+      url: '/api/drawblack'
+    })
+    .then(function(resp) {
+      return resp.data;
+    });
+  };
+
+  var getOneWhite = function() {
+    return $http({
+      method: 'GET',
+      url: '/api/drawwhite'
     })
     .then(function(resp) {
       return resp.data;
@@ -23,6 +33,7 @@ angular.module('superfight.game', [])
 
   return {
     getHand: getHand,
-    getOneBlack: getOneBlack
+    getOneBlack: getOneBlack,
+    getOneWhite: getOneWhite
   };
 });

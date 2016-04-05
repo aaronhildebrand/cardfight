@@ -1,6 +1,5 @@
 var mongoose = require('mongoose');
 var Cards = require('../db/cards.js');
-// var app = require('../server.js');
 
 function drawCards(indexes) {
   var promise = Cards.find({'index': { $in: indexes}}).exec();
@@ -22,7 +21,39 @@ var cardIndexes = function(indexes, countWhite, countBlack) {
 
 exports.drawHand = function(req, res) {
   var indexes = [];
-  cardIndexes(indexes, 1, 2);
+  cardIndexes(indexes, 3, 3);
+  console.log(indexes);
+
+  var cards = drawCards(indexes);
+
+  cards.then(function(hand) {
+    console.log(hand);
+    res.send(hand);
+  })
+  .catch(function(error) {
+    console.log('Error', error);
+  });
+};
+
+exports.drawWhite = function(req, res) {
+  var indexes = [];
+  cardIndexes(indexes, 1, 0);
+  console.log(indexes);
+
+  var cards = drawCards(indexes);
+
+  cards.then(function(hand) {
+    console.log(hand);
+    res.send(hand);
+  })
+  .catch(function(error) {
+    console.log('Error', error);
+  });
+};
+
+exports.drawBlack = function(req, res) {
+  var indexes = [];
+  cardIndexes(indexes, 0, 1);
   console.log(indexes);
 
   var cards = drawCards(indexes);

@@ -1,5 +1,7 @@
 <div id='cards'>
   <button class="draw" ng-click="getHand()">Draw Cards</button>
+  <button class="draw" ng-click="getOneWhite()">Draw One White</button>
+  <button class="draw" ng-click="getOneBlack()">Draw One Black</button>
   <div></div>
   <div ng-repeat='card in data.cards' style="display: inline-block; vertical-align: top;">
     <div class="{{ card.color }} {{card.selected}}" ng-click="toggleCard(card.index)">

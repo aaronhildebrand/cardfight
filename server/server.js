@@ -21,6 +21,8 @@ app.listen(port, function() {
 app.use(express.static(__dirname + '/../client'));
 
 app.get('/api/draw', game.drawHand);
+app.get('/api/drawwhite', game.drawWhite);
+app.get('/api/drawblack', game.drawBlack);
 
 
 // app.get('/*', function(req, res) {
